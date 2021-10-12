@@ -1,0 +1,45 @@
+Para agrupar los console (Encapsular los console)
+#abre
+console.group("Nombres que desees");
+#Para cerrar 
+console.groupEnd();
+
+Perímetro: Suma de los lados de la figura.
+
+Área: Superficie interna de la figura.
+
+Cuadrado
+
+Perímetro: l*4, donde ‘l’ es lado
+Área: l^2 ó l*l
+Triángulo
+
+Perímetro: l+l+l
+Área: (b*a)/2, donde ‘b’ es base y ‘a’ es altura
+Circunferencia
+
+Perímetro: Diámetro * PI, donde PI = 3.1416
+Área: PI * Radio^2
+
+Análisis: cómo calcular figuras geométricas
+Calcular perímetro y área de las siguientes figuras geométricas
+
+Cuadrado
+Perímetro = Lado +Lado +Lado + Lado , es lo mismo decir que: Lado * 4
+área = Lado * Lado, es lo mismo decir que: Lado Elevado al cuadrado 2
+Triángulo
+Perímetro = Lado + Lado + Lado;
+área = (Base * Altura)/2
+Círculo
+Circunferencia
+
+Perímetro: Diámetro * PI, donde PI = 3.1416
+Área: PI * Radio^2
+diámetro = (radio * 2)
+perímetro = diámetro * PI
+área = ( radio ^ 2 ) * PI
+
+¿Qué es pi? 😮, te lo explico rápidamente.
+Para entender en términos fáciles y prácticos pi es el coeficiente que multiplicado 3.1415… veces por su diámetro nos indica la longitud de la circunferencia.
+
+en las funciones ya no es parametros sino argumentos
